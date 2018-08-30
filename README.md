@@ -14,4 +14,5 @@ npm run dev
 # build for production with minification
 npm run build
 
-发表于GitHub的第一个项目，很简单的vuex项目，麻雀虽小五脏俱全，也是我入手vue以来用这个项目进军vuex的项目，在于我的编程史有很大的里程碑。以后会继续加油
+发表于GitHub的第一个项目，很简单的vuex项目，麻雀虽小五脏俱全，也是我入手vue以来用这个项目进军vuex的项目，
+在于我的编程史有很大的里程碑。以后会继续加油
