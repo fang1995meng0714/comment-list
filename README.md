@@ -14,17 +14,4 @@ npm run dev
 # build for production with minification
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+发表于GitHub的第一个项目，很简单的vuex项目，麻雀虽小五脏俱全，也是我入手vue以来用这个项目进军vuex的项目，在于我的编程史有很大的里程碑。以后会继续加油
